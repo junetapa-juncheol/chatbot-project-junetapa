@@ -165,13 +165,6 @@ window.chatbotDebug.clearHistory();  // 대화 내역 삭제
 window.chatbotDebug.getStats();      // 대화 통계
 ```
 
-## 🚀 배포
-
-### GitHub Pages
-1. GitHub 저장소 설정에서 Pages 활성화
-2. 소스를 `main` 브랜치 root로 설정
-3. `https://yourusername.github.io/chatbot-project`로 접속
-
 ### Netlify
 1. Netlify에 저장소 연결
 2. 빌드 설정 없이 바로 배포
@@ -181,13 +174,6 @@ window.chatbotDebug.getStats();      // 대화 통계
 1. Vercel에 프로젝트 import
 2. 자동 배포 및 최적화
 
-## 🤝 기여하기
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📋 할 일 목록
 
@@ -200,15 +186,9 @@ window.chatbotDebug.getStats();      // 대화 통계
 - [ ] 파일 업로드 지원
 - [ ] 이미지 응답 기능
 
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
-
 ## 📞 문의 및 지원
 
-- 이슈 리포트: [GitHub Issues](https://github.com/yourusername/chatbot-project/issues)
-- 기능 요청: [GitHub Discussions](https://github.com/yourusername/chatbot-project/discussions)
-- 이메일: your.email@example.com
+- 이메일: jun22sky@nate.com
 
 ## 🙏 감사 인사
 
